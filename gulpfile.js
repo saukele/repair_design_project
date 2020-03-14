@@ -1,5 +1,7 @@
-const gulp = require('gulp')
+const {src, dest, watch} = require('gulp');
 const browserSync = require('browser-sync').create();
+const sass = require('gulp-sass');
+const autoprefixer = require('gulp-autoprefixer');
 
 
 // Static server
