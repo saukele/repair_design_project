@@ -8,4 +8,5 @@
 
 [Урок 15](https://github.com/saukele/repair_design_project.github.io/tree/master/lesson_15/ "Описание")
 
+[Урок 16](https://github.com/saukele/repair_design_project.github.io/tree/master/lesson_16/ "Описание")
 
