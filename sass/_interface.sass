@@ -1,5 +1,6 @@
 .button
-  padding: 13px 20px
+  // padding: 12px 21px
+  font-family: 'Futura Demi', sans-serif
   border: none
   border-radius: 2px
   text-transform: uppercase
@@ -7,13 +8,15 @@
   &:hover
     cursor: pointer
   &--primary
+    padding: 18px 26px
     background-color: $primary
     color: $light
     box-shadow: 0px 5px 15px rgba($primary, 0.2)
-    transition: box-shadow 0.3s
+    transition: box-shadow, 0.3s
     &:hover
       box-shadow: none
   &--outline
+    padding: 18px 42px
     border: 1px solid $light
     background-color: transparent
     color: $light
