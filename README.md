@@ -12,4 +12,7 @@
 
 [Урок 17](https://github.com/saukele/repair_design_project.github.io/tree/master/lesson_17/ "Описание")
 
+[Урок 18](https://github.com/saukele/repair_design_project.github.io/tree/master/lesson_18/ "Описание")
+
+
 
